@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="projeto Barra de Perfil" src=".github/preview.png" width="100%">
+  <img alt="projeto Barra de Perfil" src="images/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
